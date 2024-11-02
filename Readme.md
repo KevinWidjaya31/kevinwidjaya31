@@ -1,7 +1,6 @@
-# Profil Pengembang
+# Profile Developer
 
-## 👤 Nama: [Nama Anda]
-![Foto Profil](link-ke-foto-profil-anda)
+## 👤 Nama: Kevin Widjaya
 
 ### 🌍 Lokasi
 Jakarta, Indonesia
