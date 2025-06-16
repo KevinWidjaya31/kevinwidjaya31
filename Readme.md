@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinwidjaya31&label=Profile%20views&color=0e75b6&style=flat" alt="kevinwidjaya31" /> </p>
 
-- 🔭 I’m currently working on **Heavy Construction Rent App**
+- 🔭 I’m currently working on **Money Management App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & Kotlin**
 
 - 📫 How to reach me **kevinwidjaya31@gmail.com**
 
